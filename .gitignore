@@ -1,1 +1,14 @@
-input/paysim.csv
+# Input and Output folders
+input/
+output/
+
+# Node modules
+node_modules/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JavaScript files
+*.js
